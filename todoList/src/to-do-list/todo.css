@@ -1,0 +1,27 @@
+.todo{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(233, 167, 143);
+    margin-bottom: 5px; 
+    padding: 10px 10px;
+    
+}
+
+.todo  div .complete-icon{
+    color:green;
+    cursor: pointer;
+    
+}
+
+
+
+.todo div .delete-icon{
+    color: red;
+    margin-left: 5px;
+    cursor: pointer;
+}
+
+.completed-todo{
+    text-decoration: line-through;
+}

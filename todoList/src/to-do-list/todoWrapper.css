@@ -1,0 +1,13 @@
+.todo-wrapper{
+    width: 500px;
+    height: auto;
+    margin: auto;
+    margin-top: 30px;
+    background-color: antiquewhite;
+    padding: 30px 10px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}

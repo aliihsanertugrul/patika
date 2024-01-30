@@ -1,0 +1,21 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+.footer >p{
+    background-color: red;
+    padding: 3px 5px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.footer span{
+    color: rgb(54, 50, 50);
+    margin-right: 7px;
+    text-decoration: underline;
+}
